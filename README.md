@@ -16,20 +16,22 @@ For a minimum grade of B, all projects for this unit must:
 * Have a clear message or intervention
 * Incorporate juxtaposition
 * Use at least 3 layers
-* Use at least 2 GIMP tools, and write about them in the reflection
-* Aim for surprise or metaphorical leap in the elements you bring together.
+* Use at least 1 GIMP tool beyond select, move, and text
 * Argue in reflection why you did what you did
 
 **Aspirational inspirations**
 To target (but not guarantee) a grade above a B, the best projects for this unit may...
-_(we'll brainstorm together on Thursday, 10/10.)_
-<!--
-* Use Github repository with meaningful commit messages
-* Incorporate conceptual contrast/changes - (i.e. two separate ideas combined into the image like including at least two images from separate sources)
-* Try (and reflect on) ≥ 2 new-to-you GIMP tools/effects
-* Guide eye through a flow
+
+* Incorporate original photography
+* Include something surprising or unexpected in the elements you bring together
+* Have secondary and/or tertiary levels of hierarchy add layers or nuance to the argument
+* Use a consistent / considered color palette (and say why you chose it)
 * Use negative space actively
--->
+* Use more than one font
+* Use GIMP filters or techniques (e.g. layer groups) that are new to you
+* Use GitHub if that’s still challenging enough — or more GitHub features (e.g. releases) if GitHub is feeling familiar
+
+
 
 ## Deadlines and products
 At each stage, unless otherwise specified, upload (push) your materials to your own copy of this assignment repository. I recommend that you **save often, using meaningful commit messages**; for best results, please keep your filenames clear, lowercase, and space-free (use hyphens or underscores).
