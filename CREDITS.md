@@ -6,6 +6,8 @@
 
 [ Flaticon licensing ](https://file000.flaticon.com/downloads/license/license.pdf)
 
-[ Flaticon cloud ](https://www.flaticon.com/authors/creaticca-creative-agency)
+Flaticon author attribution [Creaticca Creative Agency ](https://www.flaticon.com/authors/creaticca-creative-agency)
+
+[ Flaticon cloud ](https://www.flaticon.com/free-icon/cloud_335443?term=cloud&page=1&position=7)
 
 All photos for this project come from the Pitt Tonight Google Drive, taken by Blaise Sweiss (I was given specific permissions to use these photos).
